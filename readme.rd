@@ -1,0 +1,1 @@
+An unsupervised ML project applying K-Means clustering for customer segmentation, with PCA used to reduce dimensionality and visualize clusters in 2D — helping identify customer groups based on income and spending patterns.
